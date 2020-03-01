@@ -6,7 +6,7 @@ package controldepersonal;
 import java.util.*;
 /**
  *
- * @author Luis Ugas
+ * @author Luis Maracay
  */
 public class Controldepersonal {
     
